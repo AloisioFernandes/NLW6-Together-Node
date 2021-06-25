@@ -5,3 +5,5 @@ yarn dev
 
 Node.js
 Express.js
+TypeORM
+Sqlite
