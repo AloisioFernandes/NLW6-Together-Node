@@ -7,3 +7,4 @@ Node.js
 Express.js
 TypeORM
 Sqlite
+JWT
